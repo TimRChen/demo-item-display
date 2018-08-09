@@ -7,3 +7,5 @@ demo lib.
 ## test-anti
 * anti-key-words demo display.
 
+## vue-expand-panel
+* Expane the panel Component for Vue.
